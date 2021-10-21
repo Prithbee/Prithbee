@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Game Development, C# and Lua
 - 💞️ I’m looking to collaborate on No one
 - 💞️ I know C#, C++, Java, Javascript, Lua, Python, Go, Ruby, PHP, C, etc
-- 😁 I am Currently 14 <h1>years<h1> old
+- 😁 I am Currently 14 years old
+- 🎂 Born in 10th September 2007
 
 <!---
 Prithbee/Prithbee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
